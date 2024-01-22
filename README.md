@@ -4,7 +4,8 @@
     <img width="300" style="border: 1px solid black; border-radius: 10px;" alt="BungeeGum Screenshot" src="https://github.com/ryugel/BungeeGum/assets/69274926/b456e722-3a9c-4c28-ac50-136d2032a6db">
   </kbd>
 </p>
-## Installation
+
+### Installation
 
 Follow these steps to manually install the BungeeGum Xcode color theme:
 
